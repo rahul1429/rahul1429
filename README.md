@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul1429
 - 👀 I’m interested in Data Science & Machine Learning
-- 🌱 I’m currently in my final year of B.Tech (CSE)
+- 🌱 I’m currently a student at University of North Texas
 - 💞️ I’m looking to collaborate on Machine Learning & Data Science projects.
 - 📫 Reach me at -> kukudalarahul1429@gmail.com
 
