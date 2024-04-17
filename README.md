@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul1429
+- 👋 Hi, I’m Rahul Kukudala
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently a student at University of North Texas
 - 💞️ I’m looking to collaborate on Machine Learning & Data Science projects.
